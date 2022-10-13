@@ -1,2 +1,5 @@
-print('hello')
-print('world')
+def func():
+    print('hello world')
+
+
+func()
